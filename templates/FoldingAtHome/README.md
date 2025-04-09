@@ -1,4 +1,4 @@
-# Folding@home X Nosana Network
+# Folding@home
 
 <img src="https://foldingathome.org/wp-content/uploads/2016/09/folding-at-home-logo.png" width="150" align="center">
 
