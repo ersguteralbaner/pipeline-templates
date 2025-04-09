@@ -13,7 +13,7 @@ By deploying this template on Nosana Network, you're funding critical computatio
 - **Cancer Treatments**: Simulate protein interactions for oncology breakthroughs
 - **Therapeutic Development**: Enable new approaches for drug discovery
 
-Each completed job delivers verified scientific results to Stanford University's research consortium.
+Each completed job delivers verified scientific results to the Folding@home Consortium, a collaborative network of research labs and institutions worldwide. 
 
 ## How It Works
 
