@@ -1,6 +1,6 @@
 # YouTube Video Summarizer
 
-<img src="https://github.com/user-attachments/assets/f3948b5e-bbe1-4638-9763-44e9ecc7583c" alt="YouTube Video Summarizer" width="200"/>
+<img src="https://i.ibb.co/Hj9pW4t/Chat-GPT-Image-Apr-9-2025-01-55-44-PM.png" alt="YouTube Video Summarizer" width="200"/>
 
 
 ## Overview
@@ -33,4 +33,6 @@ This application automatically generates concise summaries of YouTube videos usi
 
 ## Preview
 
-![WebUI Interface](https://github.com/user-attachments/assets/4371a6c4-a1b2-4f8c-bbc2-e88bd8fc7ff8)
+![grab-landing-page](https://i.ibb.co/6JNjmswt/output-2x.gif)
+
+
