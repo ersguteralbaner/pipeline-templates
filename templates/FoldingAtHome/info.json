@@ -2,6 +2,6 @@
   "id": "foldingathome",
   "name": "Folding@home",
   "description": "A distributed computing project for disease research that simulates protein folding to help scientists understand diseases and develop new therapies.",
-  "category": ["Science", "Medical Research", "Distributed Computing"],
+  "category": ["Science", "Medical Research", "Analytics"],
   "icon": "https://foldingathome.org/wp-content/uploads/2016/09/folding-at-home-logo.png"
 }
